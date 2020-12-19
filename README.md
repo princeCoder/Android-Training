@@ -1,2 +1,2 @@
 # Android-Training
-Learn how to build Android Mobile Apps in 12 weeks
+Here we will learn how to build Android Mobile Apps in 12 weeks.
